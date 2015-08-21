@@ -537,3 +537,12 @@ iframe {
     width: 1360px;
   }
 }
+
+
+.dkb {
+    border-radius: 50%;
+    display: table;
+    float: left;
+    margin: 0 10px 0 auto;
+    overflow: hidden;
+}
